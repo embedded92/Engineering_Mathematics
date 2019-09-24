@@ -1,4 +1,7 @@
 # engineering_maths
+
+MACHINE EPSILON:
+
 Machine epsilon deals with rounding in computers.
   ...It is the smallest floating-point number that can be "added to 1.0 with a result that does not round to 1.0".
 Machine epsilon varies by machin.
