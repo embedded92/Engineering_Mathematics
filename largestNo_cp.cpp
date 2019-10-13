@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     int i, n;
-    int arr[100];
+    int arr[100];   //array declaration with 100 elements
     cout << "Enter number of elements: /n";
     cin >> n;
     // Store number entered by the user
@@ -24,8 +24,8 @@ int main()
     for(i = 1;i < n; ++i)
     {
        // Change < to > if you want to find the smallest element
-       if(arr[0] < arr[i])
-           arr[0] = arr[i];
+       if(arr[0] < arr[i])  //making comparision between two adjecent numbers
+           arr[0] = arr[i];   //replacing the two numbers accordingly
     }
     cout << "Largest element = " << arr[0];
     return 0;
