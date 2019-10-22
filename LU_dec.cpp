@@ -4,6 +4,13 @@
  *  Created on: Oct 21, 2019
  *      Author: ramneet
  */
+// Assume arrays start with index 1 instead of 0.
+// a: Coef. of matrix A; 2-D array. Upon successful
+// completion, it contains the coefficients of
+// both L and U.
+// b: Coef. of vector b; 1-D array
+// n: Dimension of the system of equations
+// x: Coef. of vector x (to store the solution)
 #include<iostream>
 using namespace std;
 
