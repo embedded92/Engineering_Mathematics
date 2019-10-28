@@ -1,5 +1,6 @@
 /*
- *C++ program equivant to calculate the exact value of e, x=10 using Taylor series around a=0
+ *C++ program equivant to calculate the exact value of e, x=10 using Taylor series around a=0. When calculated at 0, then that is
+ known as Maclaurin series.
  * maths_lab1_part3.cpp
  * Taylor Series
  *  Created on: Sep 23, 2019
