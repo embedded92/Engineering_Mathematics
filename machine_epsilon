@@ -1,8 +1,8 @@
 
 /*
  * epsilon.cpp
- *  Created on: Sep 20, 2019
- *      Author: ramneet
+ * Created on: Sep 20, 2019
+ *     Author: ramneet
  */
 #include<iostream>      //header file included to allow program to perform input and output
 using namespace std;    //cout defined inside std namespace
