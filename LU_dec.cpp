@@ -22,7 +22,7 @@ int main()
     cout<<"Enter elements of matrix a ...ROW wise :"<<endl;
     for(i=1;i<=n;i++)
     {
-        cout<<"R"<<i<<"  ";
+        cout<<"R"<<i<<"   ";
         for(j=1;j<=n;j++)
             cin>>a[i][j];
     }
