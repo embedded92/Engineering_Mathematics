@@ -36,7 +36,7 @@ int main()
         for(i=k;i<=n;i++)
         {
             sum=0;
-            for(p=1;p<=k-1;p++)
+            for(p=1;p<=k- 1;p++)
                 sum+=l[i][p]*u[p][k];
             l[i][k]=a[i][k]-sum;
         }
