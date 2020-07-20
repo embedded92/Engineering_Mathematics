@@ -1,8 +1,7 @@
 /*
  * Newton_method_cpp.cpp
- *
- *  Created on: Nov 18, 2019
- *      Author: ramneet
+ * Created on: Nov 18, 2019
+ * Author: ramneet
  */
 // C++ program for implementation of Newton Raphson Method for
 // solving equations
