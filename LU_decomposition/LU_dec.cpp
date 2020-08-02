@@ -1,7 +1,7 @@
 /*
  * LU_dec.cpp
  *  Created on: Oct 21, 2019
- *      Author: ramneet
+ *      Author: Ramneet
  */
 // Assume arrays start with index 1 instead of 0.
 // a: Coef. of matrix A; 2-D array. Upon successful
